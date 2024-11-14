@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @inkosiyethu
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning JavaScript, ReactJS, Node JS, and Python
+- 📫 thabon803@gmail.com
