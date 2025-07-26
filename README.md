@@ -1,4 +1,4 @@
-<2>Hey there, I'm Nkosiyethu Thabo Ndebele!</h2>
+<h2>Hey there, I'm Nkosiyethu Thabo Ndebele!</h2>
 
 📊 Data Enthusiast 💻
 
