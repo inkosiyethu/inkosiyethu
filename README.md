@@ -1,14 +1,14 @@
 👋 Hey there, I'm Nkosiyethu Thabo Ndebele!
 
-📊 Data Analyst | 💻 Data Enthusiast
+📊 Data Enthusiast 💻
 
 I turn raw data into meaningful insights that drive business decisions
 
-## 🔥 Interests
+Interests
 - Data Analytics 📈
 - Business Intelligence 📉
 
-🛠️ Tech Stack
+Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI">
