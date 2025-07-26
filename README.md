@@ -1,12 +1,15 @@
-👋 Hey there, I'm Nkosiyethu Thabo Ndebele!
+<2>Hey there, I'm Nkosiyethu Thabo Ndebele!</h2>
 
 📊 Data Enthusiast 💻
 
 I turn raw data into meaningful insights that drive business decisions
 
+
+
 Interests
 - Data Analytics 📈
 - Business Intelligence 📉
+
 
 Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
