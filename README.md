@@ -1,6 +1,6 @@
 
 # Nkosiyethu Thabo Ndebele  
-**📊 Data Analyst**  
+**📊 Data Analyst | Business Analyst**  
 
 I transform raw data into actionable insights that drive business decisions.  
 
