@@ -5,7 +5,7 @@
 I transform raw data into actionable insights that drive business decisions.  
 
 ## Core Interests 
-- Business Intelligence Systems  
+- Business Intelligence 
 - Data Analytics & Visualization 
 - Data Storytelling   
 
